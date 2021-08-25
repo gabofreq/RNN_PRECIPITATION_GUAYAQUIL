@@ -1,4 +1,4 @@
-## Pronostico de Precipitación usando una Red Neuronal Recurrente Apilada
+## Pronóstico de Precipitación usando una Red Neuronal Recurrente Apilada
 
 ### Descripción del Problema
 
