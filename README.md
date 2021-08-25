@@ -11,3 +11,4 @@
 #### Las imágenes de satélite se tienen que llevar a un proceso de transformación, para convertir la información más relevante a las precipitaciones, en series de tiempo. La metodología para la obtención del vector TSM, se expone en un repositorio libre en GitHub. El modelo propuesto y su respectiva calibración se encuentran en el mismo repositorio.
 #### Los datos se presentan de una forma visual en la plataforma de Power BI, para el indicado análisis estadístico interactivo, y se automatiza las metodologías en R y python, para tener el proyecto en producción.
 
+#### [1] Huang, B., P. W. Thorne, V. F. Banzon, T. Boyer, G. Chepurin, J. H. Lawrimore, M. J. Menne, T. M. Smith, R. S. Vose, and H.-M. Zhang, 2017: Extended Reconstructed Sea Surface Temperature, version 5 (ERSSTv5): Upgrades, validations, and intercomparisons. J. Climate, 30, 8179-8205, http://dx.doi.org/10.1175/JCLI-D-16-0836.1.
