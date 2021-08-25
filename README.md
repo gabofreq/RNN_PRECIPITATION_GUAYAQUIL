@@ -1,3 +1,5 @@
+## Pronostico de Precipitación usando una Red Neuronal Recurrente Apilada
+
 ### Descripción del Problema
 
 #### Pronosticar las precipitaciones (RR), podrían ayudar a disminuir la incertidumbre de lo que podría pasar en las actividades económicas, como la agricultura, gestión de riesgos, eh incluso anticiparse a los brotes de enfermedades como el Dengue y la malaria. A una escala mensual, se obtendría un pronóstico a largo plazo (12 meses), incluso conocer si los posibles impactos del Fenómeno del Niño, que podrían afectar a nuestra región. Por tanto, de ahí la necesidad de tener un producto confiable, basado en los medios técnicos más avanzados y en la experiencia y profesionalidad de meteorólogos calificados que puedan interpretar mejor los resultados. 
